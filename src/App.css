@@ -1,5 +1,21 @@
-.App {
+
+* {
   text-align: center;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+input {
+  text-align: center;
+  margin: 20px;
+  padding: 0 2rem;
+  height: 25px;
+}
+
+label {
+  padding: 20px;
 }
 
 .App-logo {
